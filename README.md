@@ -9,9 +9,9 @@ Take this journey with me as I sharpen my skills! Be forewarned: this blog may s
 Whether you're just starting out, or you've been in the cybersecurity world for a while, you'll need to stay current with today's cyber news and trends. While I don't mean to advocate the "fake it 'til you make it" approach, I vividly remember my early days of immersing myself in tech shows, feeling overwhelmed by the jargon and complexity. Until one day, it just clicked!
 Here's how I stay current and recommend –
 ### Daily
-- [Daily Cyber Threat Brief][https://www.youtube.com/@SimplyCyber]
-- [Risky Biz News][https://news.risky.biz/]
+- [Daily Cyber Threat Brief](https://www.youtube.com/@SimplyCyber)
+- [Risky Biz News](https://news.risky.biz/)
 ### Weekly
-- [Security Now][https://twit.tv/shows/security-now]
-- [Risky Business][https://risky.biz/]
-- [Srsly Risky Biz][https://news.risky.biz/tag/seriously-risky-business]
+- [Security Now](https://twit.tv/shows/security-now)
+- [Risky Business](https://risky.biz/)
+- [Srsly Risky Biz](https://news.risky.biz/tag/seriously-risky-business)
